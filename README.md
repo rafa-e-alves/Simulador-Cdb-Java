@@ -33,7 +33,7 @@ git clone https://github.com/rafa-e-alves/Simulador-Cdb-Java.git
 ### 2. Entre no Diretório do Projeto
 
 ```sh
-cd simulador-cdb
+cd simulador-cdb-java
 ```
 
 ### 3. Compile e Execute o Código em Java
