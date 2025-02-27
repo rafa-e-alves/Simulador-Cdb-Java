@@ -27,7 +27,7 @@ Este é um simulador de CDB (Certificado de Depósito Bancário) simples, que pe
 ### 1. Clone o Repositório
 
 ```sh
-git clone https://github.com/rafa-e-alves/simulador-cdb.git
+git clone https://github.com/rafa-e-alves/Simulador-Cdb-Java.git
 ```
 
 ### 2. Entre no Diretório do Projeto
