@@ -36,14 +36,12 @@ git clone https://github.com/rafa-e-alves/simulador-cdb.git
 cd simulador-cdb
 ```
 
-### 3. Compile e execute o código em Java:
+### 3. Compile e execute o código em Java
 
 ```sh
 javac SimuladorCDB.java
 java SimuladorCDB
 ```
-
-### 4. O programa irá solicitar que você informe o investimento inicial, o aporte mensal, a taxa de juros anual e o prazo do investimento em meses.
 
 ## Exemplos de Uso
 
