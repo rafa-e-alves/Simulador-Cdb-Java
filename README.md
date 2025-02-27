@@ -36,7 +36,7 @@ git clone https://github.com/rafa-e-alves/simulador-cdb.git
 cd simulador-cdb
 ```
 
-### 3. Compile e execute o código em Java
+### 3. Compile e Execute o Código em Java
 
 ```sh
 javac SimuladorCDB.java
