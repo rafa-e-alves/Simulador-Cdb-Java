@@ -1,0 +1,39 @@
+# Diretórios de build/compilação
+/bin/
+/target/
+
+# Arquivos de dependências gerados
+*.class
+*.jar
+*.war
+*.ear
+
+# Diretórios do IntelliJ IDEA
+.idea/
+
+# Diretórios do Eclipse
+/.project
+/.classpath
+/.settings/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.bak
+
+# Arquivos de configuração do sistema operacional
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Arquivos do Maven (se você estiver usando)
+*.iml
+.mvn/
+target/
+
+# Arquivos de backup do editor
+*~.nib
+*.sublime-workspace
+*.sublime-project
